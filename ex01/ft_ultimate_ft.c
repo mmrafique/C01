@@ -1,30 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_ft.c                                            :+:      :+:    :+:   */
+/*   ft_ultimate_ft.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: muhmajee <muhmajee@student.42barcelona.com>  #+#  +:+       +#+      */
+/*   By: muhmajee <muhmajee@student.42barcelona.com>  #+#  +:+       +#+       */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-08-14 21:22:20 by muhmajee          #+#    #+#             */
-/*   Updated: 2025-08-14 21:22:20 by muhmajee         ###   ########.fr       */
+/*   Created: 2025-08-16 22:37:35 by muhmajee          #+#    #+#             */
+/*   Updated: 2025-08-16 22:37:35 by muhmajee         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
-
-void	ft_ft(int *nbr)
+void	ft_ultimate_ft(int *********nbr)
 {
-	nbr = 42;
-}
-
-
-int	main(void)
-{
-	int	i;
-
-	i = 1;
-	write(1, &i, 1);
-	ft_ft(&i);
-	write(1, &i, 1);
-	return (0);
+	*********nbr = 42;
 }

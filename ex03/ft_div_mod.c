@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_div_mod.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: muhmajee <muhmajee@student.42barcelona.com>  #+#  +:+       +#+       */
+/*   By: muhmajee <muhmajee@student.42barcelon      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-08-16 22:40:38 by muhmajee          #+#    #+#             */
-/*   Updated: 2025-08-16 22:40:38 by muhmajee         ###   ########.fr       */
+/*   Created: 2025/08/17 16:36:59 by muhmajee          #+#    #+#             */
+/*   Updated: 2025/08/17 16:37:03 by muhmajee         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

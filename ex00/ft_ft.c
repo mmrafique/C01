@@ -17,8 +17,7 @@ void	ft_ft(int *nbr)
 	nbr = 42;
 }
 
-
-int	main(void)
+/*int	main(void)
 {
 	int	i;
 
@@ -27,4 +26,4 @@ int	main(void)
 	ft_ft(&i);
 	write(1, &i, 1);
 	return (0);
-}
+}*/

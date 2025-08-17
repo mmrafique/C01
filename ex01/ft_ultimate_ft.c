@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ultimate_ft.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: muhmajee <muhmajee@student.42barcelona.com>  #+#  +:+       +#+       */
+/*   By: muhmajee <muhmajee@student.42barcelon      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-08-16 22:37:35 by muhmajee          #+#    #+#             */
-/*   Updated: 2025-08-16 22:37:35 by muhmajee         ###   ########.fr       */
+/*   Created: 2025/08/17 16:34:43 by muhmajee          #+#    #+#             */
+/*   Updated: 2025/08/17 16:34:46 by muhmajee         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

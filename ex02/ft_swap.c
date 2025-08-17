@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_swap.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: muhmajee <muhmajee@student.42barcelona.com>  #+#  +:+       +#+       */
+/*   By: muhmajee <muhmajee@student.42barcelon      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-08-16 22:38:33 by muhmajee          #+#    #+#             */
-/*   Updated: 2025-08-16 22:38:33 by muhmajee         ###   ########.fr       */
+/*   Created: 2025/08/17 16:35:22 by muhmajee          #+#    #+#             */
+/*   Updated: 2025/08/17 16:35:25 by muhmajee         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
